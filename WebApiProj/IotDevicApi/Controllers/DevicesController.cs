@@ -25,7 +25,7 @@ namespace IotDevicApi.Controllers
         private readonly RegistryManager registryManager;
 
         //device connection string  you registered a device in the IoT Hub
-        static string connectionString = "HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=C5Fj7AKMJ2NoqfszrrSZi0fRi0BwEH3AauSr/b8351M=";
+        static string connectionString = "HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Y7RF10/LvAdey/nUBKWxD+Puzs+QpvUUCzQLdbW3uKQ=";
 
         //var connectionString = configuration.GetValue<string>("HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Y7RF10/LvAdey/nUBKWxD+Puzs+QpvUUCzQLdbW3uKQ=");// static DeviceClient Client = null;
 

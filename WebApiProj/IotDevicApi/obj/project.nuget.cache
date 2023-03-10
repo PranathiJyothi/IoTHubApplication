@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4vDYI35zgsMoRZEzHQ4VEJ0Sfhb5TwZ9hbxbJUkJQTWYSP3y9xucnU+qlkXBCuhKzs9lZ18Txrw7LXu3V2Q/A==",
+  "dgSpecHash": "rfY0IIZAs6X+ILExPyZ4cDuJFpa87rmGZawKHcgwfd0NuzSMI9W9VVuFCAmSPNBd0H2tIM55xnhhbT65HhcRXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vmadmin\\Desktop\\New folder\\IoTHubDeviceApplication\\WebApiProj\\IotDevicApi\\IotDevicApi.csproj",
+  "projectFilePath": "C:\\Users\\vmadmin\\Desktop\\Project\\WebApiProj\\IotDevicApi\\IotDevicApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmadmin\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\dotnetty.buffers\\0.7.0\\dotnetty.buffers.0.7.0.nupkg.sha512",

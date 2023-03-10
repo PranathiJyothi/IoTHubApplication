@@ -14,7 +14,7 @@ namespace IotDevicApi.Controllers
        // private readonly string _connectionString;
         private readonly string _deviceId = "myDevice";
         private static DeviceClient deviceClient;
-        private readonly string _connectionString = "HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=C5Fj7AKMJ2NoqfszrrSZi0fRi0BwEH3AauSr/b8351M=";
+        private readonly string _connectionString = "HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Y7RF10/LvAdey/nUBKWxD+Puzs+QpvUUCzQLdbW3uKQ=";
 
         public TelemetryController()
         {

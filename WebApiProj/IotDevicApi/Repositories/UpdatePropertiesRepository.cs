@@ -7,7 +7,7 @@ namespace IotDevicApi.Repositories
 {
     public class UpdatePropertiesRepository
     {
-        private static string connectionString = "HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=C5Fj7AKMJ2NoqfszrrSZi0fRi0BwEH3AauSr/b8351M=";
+        private static string connectionString = "HostName=PranathiHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Y7RF10/LvAdey/nUBKWxD+Puzs+QpvUUCzQLdbW3uKQ=";
 
         public static async Task<bool> IsDeviceAvailable(string deviceId)
         {
