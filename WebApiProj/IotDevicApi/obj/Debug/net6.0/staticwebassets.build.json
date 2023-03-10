@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "puuo4q7QqK4gX+rF9S51Ux0Z/ezAmiZT3rCc6VeDQ2Y=",
+  "Source": "IotDevicApi",
+  "BasePath": "_content/IotDevicApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
