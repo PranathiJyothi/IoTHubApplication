@@ -6539,11 +6539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\Project\\WebApiProj\\IotDevicApi\\IotDevicApi.csproj",
+      "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\New folder\\IoTHubDeviceApplication\\WebApiProj\\IotDevicApi\\IotDevicApi.csproj",
       "projectName": "IotDevicApi",
-      "projectPath": "C:\\Users\\vmadmin\\Desktop\\Project\\WebApiProj\\IotDevicApi\\IotDevicApi.csproj",
+      "projectPath": "C:\\Users\\vmadmin\\Desktop\\New folder\\IoTHubDeviceApplication\\WebApiProj\\IotDevicApi\\IotDevicApi.csproj",
       "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vmadmin\\Desktop\\Project\\WebApiProj\\IotDevicApi\\obj\\",
+      "outputPath": "C:\\Users\\vmadmin\\Desktop\\New folder\\IoTHubDeviceApplication\\WebApiProj\\IotDevicApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
